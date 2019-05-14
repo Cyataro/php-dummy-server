@@ -1,8 +1,12 @@
 PHP Dummy server
 ===
 
-リトライのチェックのためのendpoint
-ファイルに訪問回数を記録
+php endpoint
+
+Settings
+---
+`$ touch counter`
+-> write visited count
 
 Howto
 ---

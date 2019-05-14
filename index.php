@@ -2,14 +2,19 @@
   main();
 
 function main(){
-  $visited = countUp();
+  // $visited = countUp();
 
-  if ($visited > 100) {
-    echo 'visited gt 3 times!!!';
-  } else {
-    set_time_limit(1);
-    while (1) {}
-  }
+  while(1);
+
+  // if ($visited > 2) {
+  //   $data = 'OK';
+  //   header('Content-Type: application/json');
+  //   echo json_encode($data);
+  //   echo 'visited gt 3 times!!!';
+  // } else {
+  //   set_time_limit(1);
+  //   while (1) {}
+  // }
 }
 /**
  * @return String
